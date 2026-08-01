@@ -1,0 +1,190 @@
+@import 'tailwindcss';
+@plugin "daisyui";
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Cinzel', 'Palatino Linotype', Georgia, serif;
+    line-height: 1.6;
+}
+
+/* Top Navigation Bar */
+.top {
+    background-color: #333;
+    padding: 10px 0;
+}
+
+.top-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.top-left, .top-right {
+    display: flex;
+    gap: 15px;
+}
+
+.top-left button, .top-right button {
+    background-color: #555;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+.top-left button:hover, .top-right button:hover {
+    background-color: #777;
+}
+
+.top-title {
+    color: white;
+    font-size: 1.5rem;
+    text-align: center;
+    flex: 1;
+}
+
+/* Hero Section */
+.hero {
+    width: 100%;
+    height: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+
+.hero h2 {
+    color: white;
+    font-size: 2.5rem;
+}
+
+
+
+@plugin "daisyui/theme" {
+	name: 'aoqtd';
+	default: true;
+	prefersdark: false;
+	color-scheme: light;
+
+	/* base */
+	--color-base-100: oklch(92% 0.02 97.4);
+	--color-base-200: oklch(95% 0.015 85);
+	--color-base-300: oklch(90% 0.02 85);
+	--color-base-content: oklch(25% 0.02 50);
+
+	/* ── Primary — oro pergamena ── */
+	--color-primary: oklch(75% 0.1 75);
+	--color-primary-content: oklch(22% 0.02 50);
+
+	/* ── Secondary — rosso mattone ── */
+	--color-secondary: oklch(40% 0.1 30);
+	--color-secondary-content: oklch(92% 0.01 30);
+
+	/* links / highlights */
+	--color-accent: oklch(58% 0.11 55);
+	--color-accent-content: oklch(98% 0.01 85);
+
+	/* status */
+	--color-neutral: oklch(35% 0.02 50);
+	--color-neutral-content: oklch(96% 0.01 85);
+
+	--color-info: oklch(65% 0.1 240);
+	--color-success: oklch(65% 0.12 145);
+	--color-warning: oklch(80% 0.12 85);
+	--color-error: oklch(60% 0.2 25);
+
+	/* shape */
+	--radius-selector: 0.4rem;
+	--radius-field: 0.4rem;
+	--radius-box: 0.5rem;
+
+	--border: 1px;
+	--depth: 1;
+	--noise: 1;
+}
+
+[data-theme='aoqtd'] {
+	/* Font stack */
+	--font-display: 'Cinzel', 'Palatino Linotype', Georgia, serif;
+	--font-ui: 'Oswald', 'Barlow Condensed', sans-serif;
+	--font-body:
+		ui-sans-serif, system-ui, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol,
+		Noto Color Emoji;
+
+	font-family: var(--font-body);
+	font-size: 1rem;
+	line-height: 1.8;
+
+	/* Heading */
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		font-family: var(--font-display);
+		line-height: 1.2;
+		color: var(--color-primary);
+	}
+
+	h1 {
+		font-size: clamp(1.8rem, 5vw, 2.8rem);
+		border-bottom: 2px solid var(--color-primary);
+		padding-bottom: 0.35em;
+	}
+
+	h2 {
+		font-size: clamp(1.3rem, 3vw, 1.9rem);
+		margin-top: 2em;
+		margin-bottom: 0.6em;
+	}
+
+	/* Nav / UI labels */
+	nav,
+	.ui-label {
+		font-family: var(--font-ui);
+		letter-spacing: 0.06em;
+		text-transform: uppercase;
+	}
+
+	/* Link */
+	a {
+		color: var(--color-primary);
+		text-decoration: none;
+		transition: color 0.15s ease;
+	}
+
+	a:hover {
+		color: var(--color-accent);
+		text-decoration: underline;
+	}
+
+	/* Prose images (fumetti, personaggi) */
+	article img,
+	.prose img {
+		border-radius: var(--radius-box);
+		border: 1px solid var(--color-base-300);
+		max-width: 100%;
+		height: auto;
+	}
+
+	/* Divider tematica */
+	.divider {
+		color: var(--color-primary);
+		opacity: 0.4;
+	}
+
+	.content {
+		max-width: 700px;
+		margin: 30px auto;
+	}
+}
