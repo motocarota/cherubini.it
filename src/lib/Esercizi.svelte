@@ -11,12 +11,10 @@
 	];
 </script>
 
-<div class="flex-row p-4 flex gap-4 flex-wrap">
+<div class="flex flex-1 my-8 flex-wrap gap-5">
 	{#each links as link}
-		<div>
-			<a href={link.href} class="link link-hover btn">
-				{link.label}
-			</a>
-		</div>
+		<a href={link.href} class="btn w-32 max-w-32 min-w-32 mx-auto link link-hover p-12 h-40">
+			{link.label}
+		</a>
 	{/each}
 </div>
