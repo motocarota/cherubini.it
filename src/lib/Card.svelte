@@ -8,7 +8,9 @@
 
 <h1>{title}</h1>
 <div class="card bg-base-400 bg-white shadow-sm my-4">
-	<img src={img} />
+	{#if img}
+		<img src={img} />
+	{/if}
 	<p>{@render children?.()}</p>
 	<Files {files} />
 </div>

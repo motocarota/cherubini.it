@@ -6,12 +6,7 @@
 		img: 'conclusione.jpg',
 		prev: '/c5-p2',
 		next: null,
-		files: [
-			{
-				name: 'MARAINI Marianna Ucrìa ALERAMO Una donna',
-				url: 'var/18-MARAINI Marianna Ucrìa ALERAMO Una donna.docx'
-			}
-		]
+		files: ['18-MARAINI Marianna Ucrìa ALERAMO Una donna']
 	};
 </script>
 

@@ -6,12 +6,7 @@
 		img: 'premessa.jpg',
 		prev: null,
 		next: '/c3-p1',
-		files: [
-			{
-				name: "VIRGILIO lodi dell'Italia",
-				url: "var/0-VIRGILIO lodi dell'Italia.docx"
-			}
-		]
+		files: ["VIRGILIO lodi dell'Italia"]
 	};
 </script>
 
