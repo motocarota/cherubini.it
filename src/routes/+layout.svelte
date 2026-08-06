@@ -13,7 +13,7 @@
 			<a href="/insegnanti">Insegnanti</a>
 		</div>
 		<div class="top-right">
-			<a href="/valutazione">Griglia di valutazione</a>
+			<a href="/files/griglia.docx">Griglia di valutazione</a>
 		</div>
 	</div>
 </div>
