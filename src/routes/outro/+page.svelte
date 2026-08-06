@@ -2,7 +2,7 @@
 	import Card from '$lib/Card.svelte';
 
 	const data = {
-		title: 'Premessa',
+		title: 'Conclusione',
 		img: 'conclusione.jpg',
 		prev: '/c5-p2',
 		next: null,
