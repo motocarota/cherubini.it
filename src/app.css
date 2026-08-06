@@ -68,7 +68,9 @@ body {
     font-size: 2.5rem;
 }
 
-
+p {
+    margin: 2rem;
+}
 
 @plugin "daisyui/theme" {
 	name: 'aoqtd';
@@ -141,6 +143,7 @@ body {
 		font-size: clamp(1.8rem, 5vw, 2.8rem);
 		border-bottom: 2px solid var(--color-primary);
 		padding-bottom: 0.35em;
+		text-align: center;
 	}
 
 	h2 {
