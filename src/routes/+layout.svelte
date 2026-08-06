@@ -8,15 +8,12 @@
 <div class="top">
 	<div class="top-container">
 		<div class="top-left">
+			<a href="/">Home </a>
 			<a href="/studenti">Studenti</a>
-			<a href="/about">About</a>
+			<a href="/insegnanti">Insegnanti</a>
 		</div>
-		<h2 class="top-title">
-			<a href="/">Prof.ssa Silvana Cherubini </a>
-		</h2>
 		<div class="top-right">
 			<a href="/valutazione">Griglia di valutazione</a>
-			<a href="/insegnanti">Insegnanti</a>
 		</div>
 	</div>
 </div>

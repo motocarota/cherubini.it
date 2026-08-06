@@ -60,6 +60,7 @@ body {
     justify-content: center;
     text-align: center;
     flex-direction: column;
+    background-image: url('/home.jpg');
 }
 
 .hero h2 {
