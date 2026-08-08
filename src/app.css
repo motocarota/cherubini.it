@@ -16,33 +16,7 @@ body {
     padding: 10px 0;
 }
 
-.top-container {
-    max-width: 1200px;
-    margin: 0 auto;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 0 20px;
-}
 
-.top-left, .top-right {
-    display: flex;
-    gap: 15px;
-}
-
-.top-left button, .top-right button {
-    background-color: #555;
-    color: white;
-    border: none;
-    padding: 8px 16px;
-    cursor: pointer;
-    text-decoration: none;
-    border-radius: 4px;
-}
-
-.top-left button:hover, .top-right button:hover {
-    background-color: #777;
-}
 
 .top-title {
     color: white;
