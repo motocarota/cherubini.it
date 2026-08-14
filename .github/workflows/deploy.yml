@@ -11,11 +11,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # If you're using pnpm, add this step then change the commands and cache key below to use `pnpm`
       - name: Install pnpm
-        uses: pnpm/action-setup@v3
+        uses: pnpm/setup@v6
         with:
-          version: 8
+          version: 11
+          runtime: node@22
+          cache: true
 
       - name: Install Node.js
         uses: actions/setup-node@v4
@@ -54,4 +55,3 @@ jobs:
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
-        
