@@ -7,12 +7,12 @@
 		prev: '/c5-p1',
 		next: '/outro',
 		files: [
-			"17-CAMILLERI Montalbano, un eroe dell'intelligenza contro l'illegalità",
+			"17-CAMILLERI Montalbano, un eroe dell'intelligenza contro l'illegalita'",
 			"12-FENOGLIO Johnny, o l'epica del ribelle LEVI l'Inferno di Auschwitz",
-			"13-DE FILIPPO Filumena Marturano, un'eroina della responsabilità",
+			"13-DE FILIPPO Filumena Marturano, un'eroina della responsabilita'",
 			'14-TOMASI DI LAMPEDUSA la terra del rimorso',
-			'16-GUCCINI Dio è morto (ma risorgerà)',
-			"15-PASOLINI la vitalità dei reietti (e l'omosessualità)"
+			"16-GUCCINI Dio e' morto",
+			"15-PASOLINI la vitalita' dei reietti"
 		]
 	};
 </script>

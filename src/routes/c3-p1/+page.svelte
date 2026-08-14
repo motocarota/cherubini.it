@@ -18,7 +18,7 @@
 			'5-DANTE selva oscura',
 			'6-DANTE Francesca',
 			'7-DANTE Conte Ugolino',
-			'8-DANTE la vanità della fama',
+			"8-DANTE la vanita' della fama",
 			'9-DANTE maledetto fiore'
 		]
 	};

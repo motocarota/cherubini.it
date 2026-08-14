@@ -6,7 +6,7 @@
 		img: 'conclusione.jpg',
 		prev: '/c5-p2',
 		next: null,
-		files: ['18-MARAINI Marianna Ucrìa ALERAMO Una donna']
+		files: ['18-MARAINI Marianna Ucria ALERAMO Una donna']
 	};
 </script>
 
