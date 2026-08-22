@@ -1,4 +1,4 @@
-<div class="flex justify-between p-4 bg-amber-900">
+<div class="flex justify-between p-4 bg-gray-700">
 	<div class="flex flex-row gap-8">
 		<a href="/">Home </a>
 		<a href="/studenti">Studenti</a>
