@@ -18,3 +18,14 @@
   - [x] studenti
   - [x] insegnanti
   - [x] valutazione
+
+- [x] aggiornare documenti word
+- [x] sfondo/tema azzurro
+- [x] caricare su dominio
+    - [x] DNS setup su aruba
+    - [x] DNS setup su github
+    - [x] www. redirect
+    - [x] https
+- [ ] mixpanel
+  - [ ] solo su prod
+  - [ ] skip dev
