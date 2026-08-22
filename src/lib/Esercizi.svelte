@@ -12,7 +12,7 @@
 </script>
 
 <div class="flex flex-1 my-8 flex-wrap gap-5">
-	{#each links as link}
+	{#each links as link (link.href)}
 		<a href={link.href} class="btn w-32 max-w-32 min-w-32 mx-auto link link-hover p-12 h-40">
 			{link.label}
 		</a>
