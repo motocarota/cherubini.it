@@ -26,9 +26,10 @@
     - [x] DNS setup su github
     - [x] www. redirect
     - [x] https
+- [x] all images to .webp
+- [x] mv css rules to tailwind
+- [x] SEO rules
 
 - [ ] mixpanel
   - [ ] solo su prod
   - [ ] skip dev
-- [x] all images to .webp
-- [ ] all css rules with tailwind
