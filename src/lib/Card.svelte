@@ -10,7 +10,7 @@
 	{#if data.img}
 		<img src={data.img} alt={data.title} />
 	{/if}
-	<p>{@render children?.()}</p>
+	<p class="m-6">{@render children?.()}</p>
 	<Files files={data.files} />
 </div>
 
