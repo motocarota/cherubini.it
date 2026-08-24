@@ -3,7 +3,7 @@
 
 	const data = {
 		title: 'Conclusione',
-		img: 'conclusione.jpg',
+		img: 'conclusione.webp',
 		prev: '/c5-p2',
 		next: null,
 		files: ['18-MARAINI Marianna Ucria ALERAMO Una donna']

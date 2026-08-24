@@ -1,6 +1,6 @@
 export const c3p1 = {
 	title: 'Classe III (Parte prima)',
-	img: '/c3-p1.jpg',
+	img: '/c3-p1.webp',
 	prev: '/intro',
 	next: '/c3-p2',
 	files: [
@@ -35,7 +35,7 @@ export const c3p2 = {
 
 export const c4p1 = {
 	title: 'Classe IV (Parte prima)',
-	img: '/c4-p1.jpg',
+	img: '/c4-p1.webp',
 	prev: '/c3-p2',
 	next: '/c4-p2',
 	files: [
@@ -53,7 +53,7 @@ export const c4p1 = {
 
 export const c4p2 = {
 	title: 'Classe IV (Parte seconda)',
-	img: '/c4-p2.png',
+	img: '/c4-p2.webp',
 	prev: '/c4-p1',
 	next: '/c5-p1',
 	files: [
@@ -71,7 +71,7 @@ export const c4p2 = {
 
 export const c5p1 = {
 	title: 'Classe V (Parte prima)',
-	img: '/c5-p1.png',
+	img: '/c5-p1.webp',
 	prev: '/c4-p2',
 	next: '/c5-p2',
 	files: [
@@ -90,7 +90,7 @@ export const c5p1 = {
 };
 export const c5p2 = {
 	title: 'Classe V (Parte seconda)',
-	img: '/c5-p2.png',
+	img: '/c5-p2.webp',
 	prev: '/c5-p1',
 	next: '/outro',
 	files: [

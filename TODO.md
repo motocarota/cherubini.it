@@ -26,6 +26,9 @@
     - [x] DNS setup su github
     - [x] www. redirect
     - [x] https
+
 - [ ] mixpanel
   - [ ] solo su prod
   - [ ] skip dev
+- [x] all images to .webp
+- [ ] all css rules with tailwind
