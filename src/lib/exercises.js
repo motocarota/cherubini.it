@@ -1,5 +1,7 @@
 export const c3p1 = {
 	title: 'Classe III (Parte prima)',
+	description:
+		'Esercizi guidati di analisi testuale per la classe terza: dai poeti siculo-toscani a Dante, Petrarca e Boccaccio.',
 	img: '/c3-p1.webp',
 	prev: '/intro',
 	next: '/c3-p2',
@@ -21,6 +23,8 @@ export const c3p1 = {
 };
 export const c3p2 = {
 	title: 'Classe III (Parte seconda)',
+	description:
+		'Esercizi guidati di analisi testuale per la classe terza: Poliziano, Ariosto, Machiavelli e Shakespeare.',
 	img: '/c3-p2.webp',
 	prev: '/c3-p1',
 	next: '/c4-p1',
@@ -35,6 +39,8 @@ export const c3p2 = {
 
 export const c4p1 = {
 	title: 'Classe IV (Parte prima)',
+	description:
+		'Esercizi guidati di analisi testuale per la classe quarta: Tasso, Cervantes, Galilei, Goldoni, Parini e Alfieri.',
 	img: '/c4-p1.webp',
 	prev: '/c3-p2',
 	next: '/c4-p2',
@@ -53,6 +59,8 @@ export const c4p1 = {
 
 export const c4p2 = {
 	title: 'Classe IV (Parte seconda)',
+	description:
+		'Esercizi guidati di analisi testuale per la classe quarta: Foscolo, Leopardi, Manzoni, Hugo, Verga e Deledda.',
 	img: '/c4-p2.webp',
 	prev: '/c4-p1',
 	next: '/c5-p1',
@@ -71,6 +79,8 @@ export const c4p2 = {
 
 export const c5p1 = {
 	title: 'Classe V (Parte prima)',
+	description:
+		'Esercizi guidati di analisi testuale per la classe quinta: Carducci, Pascoli, Gozzano, Kafka, Pirandello, Svevo e Ungaretti.',
 	img: '/c5-p1.webp',
 	prev: '/c4-p2',
 	next: '/c5-p2',
@@ -90,6 +100,8 @@ export const c5p1 = {
 };
 export const c5p2 = {
 	title: 'Classe V (Parte seconda)',
+	description:
+		'Esercizi guidati di analisi testuale per la classe quinta: Fenoglio, Levi, De Filippo, Tomasi di Lampedusa, Pasolini e Camilleri.',
 	img: '/c5-p2.webp',
 	prev: '/c5-p1',
 	next: '/outro',

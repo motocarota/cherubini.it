@@ -3,6 +3,8 @@
 
 	const data = {
 		title: 'Conclusione',
+		description:
+			'Conclusione del percorso di letteratura italiana: la voce delle donne, da Maraini ad Aleramo.',
 		img: 'conclusione.webp',
 		prev: '/c5-p2',
 		next: null,

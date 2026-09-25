@@ -1,3 +1,9 @@
+<svelte:head>
+	<title>Scheda tecnica per gli Insegnanti | Passeggiate nei boschi letterari</title>
+	<meta name="description" content="Il metodo didattico dietro gli esercizi di analisi testuale: un approccio gratuito per insegnanti di letteratura italiana nel triennio." />
+	<link rel="canonical" href="https://silvanacherubini.it/insegnanti" />
+</svelte:head>
+
 # Scheda tecnica per gli Insegnanti
 
 Cari Colleghi,

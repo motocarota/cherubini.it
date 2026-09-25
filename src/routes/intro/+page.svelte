@@ -3,6 +3,8 @@
 
 	const data = {
 		title: 'Premessa',
+		description:
+			"Premessa al percorso di letteratura italiana: il mondo classico, Virgilio e le lodi dell'Italia.",
 		img: 'premessa.webp',
 		prev: null,
 		next: '/c3-p1',
