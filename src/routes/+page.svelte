@@ -12,10 +12,10 @@
 </svelte:head>
 
 <section class="hero">
-	<h1 class="text-4xl md:text-5xl font-display bg-white/80 px-6 py-2">
+	<h1 class="text-4xl md:text-5xl font-display bg-white/80 px-6 py-2 hidden">
 		Passeggiate nei boschi letterari
 	</h1>
-	<p class="text-lg bg-white/80 px-6 py-1 mt-2">
+	<p class="text-lg bg-white/80 px-6 py-1 mt-2 hidden">
 		Lezioni gratuite sui classici della letteratura italiana, a cura di una professoressa in
 		pensione
 	</p>
