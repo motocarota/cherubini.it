@@ -1,10 +1,10 @@
 <svelte:head>
-	<title>Presentazione per gli Studenti | Passeggiate nei boschi letterari</title>
+	<title>Introduzione per gli Studenti | Passeggiate nei boschi letterari</title>
 	<meta name="description" content="Una guida gratuita alla letteratura italiana pensata per studenti curiosi, per scoprire i classici oltre i programmi scolastici." />
 	<link rel="canonical" href="https://silvanacherubini.it/studenti" />
 </svelte:head>
 
-# Presentazione per gli Studenti
+# Introduzione per gli Studenti
 
 Cari Ragazzi,
 
