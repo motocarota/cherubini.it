@@ -7,10 +7,6 @@ export const c3p1 = {
 	next: '/c3-p2',
 	files: [
 		'1-ANONIMO avvicinatevi fedeli',
-		'10-DANTE Cacciaguida',
-		'11-BOCCACCIO Andreuccio da Perugia',
-		'12-PETRARCA deserti campi',
-		'13-PETRARCA dolci acque',
 		"2-JACOPO DA LENTINI servizio d'amore",
 		'3-CAVALCANTI angiol di luce',
 		'4-CAVALCANTI esilio',
@@ -18,7 +14,11 @@ export const c3p1 = {
 		'6-DANTE Francesca',
 		'7-DANTE Conte Ugolino',
 		"8-DANTE la vanita' della fama",
-		'9-DANTE maledetto fiore'
+		'9-DANTE maledetto fiore',
+		'10-DANTE Cacciaguida',
+		'11-BOCCACCIO Andreuccio da Perugia',
+		'12-PETRARCA deserti campi',
+		'13-PETRARCA dolci acque'
 	]
 };
 export const c3p2 = {
@@ -86,8 +86,6 @@ export const c5p1 = {
 	next: '/c5-p2',
 	files: [
 		'1-CARDUCCI Maremma toscana',
-		'10-MONTALE creuze di Liguria CAPRONI',
-		'11-MONTALE casa abbandonata',
 		"2-PASCOLI cader di foglie D'ANNUNZIO",
 		'3-GOZZANO il mondo di Felicita',
 		'4-MARINETTI automobile ebbrrra',
@@ -95,7 +93,9 @@ export const c5p1 = {
 		'6-PIRANDELLO le maschere e la pazzia',
 		'7-SVEVO lo strano matrimonio di Zeno',
 		'8-PASTERNAK Jurij Zivago e la rivoluzione',
-		'9-UNGARETTI paese straziato'
+		'9-UNGARETTI paese straziato',
+		'10-MONTALE creuze di Liguria CAPRONI',
+		'11-MONTALE casa abbandonata'
 	]
 };
 export const c5p2 = {
