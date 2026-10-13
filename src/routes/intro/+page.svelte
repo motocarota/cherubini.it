@@ -8,7 +8,7 @@
 		img: 'premessa.webp',
 		prev: null,
 		next: '/c3-p1',
-		files: ["0-VIRGILIO lodi dell'Italia"]
+		files: ['0-VIRGILIO lodi dell_Italia']
 	};
 </script>
 

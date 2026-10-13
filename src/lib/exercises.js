@@ -7,13 +7,13 @@ export const c3p1 = {
 	next: '/c3-p2',
 	files: [
 		'1-ANONIMO avvicinatevi fedeli',
-		"2-JACOPO DA LENTINI servizio d'amore",
+		'2-JACOPO DA LENTINI servizio d_amore',
 		'3-CAVALCANTI angiol di luce',
 		'4-CAVALCANTI esilio',
 		'5-DANTE selva oscura',
 		'6-DANTE Francesca',
 		'7-DANTE Conte Ugolino',
-		"8-DANTE la vanita' della fama",
+		'8-DANTE la vanita della fama',
 		'9-DANTE maledetto fiore',
 		'10-DANTE Cacciaguida',
 		'11-BOCCACCIO Andreuccio da Perugia',
@@ -29,7 +29,7 @@ export const c3p2 = {
 	prev: '/c3-p1',
 	next: '/c4-p1',
 	files: [
-		"14-POLIZIANO Simonetta, l'anti-Didone",
+		'14-POLIZIANO Simonetta, l_anti-Didone',
 		'15-ARIOSTO donne e cavallier',
 		'16-ARIOSTO la pazzia di Orlando',
 		'17-MACHIAVELLI i volti del potere',
@@ -53,7 +53,7 @@ export const c4p1 = {
 		'6-GOLDONI Mirandolina',
 		'7-PARINI il risveglio del contadino',
 		'8-MOZART Don Giovanni, o il dissoluto punito',
-		"9-ALFIERI il gran tour dell'Europa"
+		'9-ALFIERI il gran tour dell_Europa'
 	]
 };
 
@@ -65,15 +65,15 @@ export const c4p2 = {
 	prev: '/c4-p1',
 	next: '/c5-p1',
 	files: [
-		"10-FOSCOLO Zacinto e il mito dell'Ellade",
+		'10-FOSCOLO Zacinto e il mito dell_Ellade',
 		'11-LEOPARDI luna amica',
 		'12-LEOPARDI un villaggio esemplare',
 		'13-MANZONI intrigo in canonica',
 		'14-MANZONI Lucia e la notte degli imbrogli',
-		"15-MAMELI fratelli d'Italia NIEVO Confessioni",
+		'15-MAMELI fratelli d_Italia NIEVO Confessioni',
 		'16-HUGO Gavroche sulle barricate di Parigi',
-		"17-VERGA 'Ntoni e il nonno (pescatori)",
-		"18-VERGA l'addio di 'Ntoni DELEDDA Marianna Sirca"
+		'17-VERGA _Ntoni e il nonno (pescatori)',
+		'18-VERGA l_addio di _Ntoni DELEDDA Marianna Sirca'
 	]
 };
 
@@ -86,7 +86,7 @@ export const c5p1 = {
 	next: '/c5-p2',
 	files: [
 		'1-CARDUCCI Maremma toscana',
-		"2-PASCOLI cader di foglie D'ANNUNZIO",
+		'2-PASCOLI cader di foglie D_ANNUNZIO',
 		'3-GOZZANO il mondo di Felicita',
 		'4-MARINETTI automobile ebbrrra',
 		'5-KAFKA la metamorfosi di Gregor',
@@ -106,11 +106,11 @@ export const c5p2 = {
 	prev: '/c5-p1',
 	next: '/outro',
 	files: [
-		"12-FENOGLIO Johnny, o l'epica del ribelle LEVI l'Inferno di Auschwitz",
-		"13-DE FILIPPO Filumena Marturano, un'eroina della responsabilita'",
+		'12-FENOGLIO Johnny, o l_epica del ribelle LEVI l_Inferno di Auschwitz',
+		'13-DE FILIPPO Filumena Marturano, un_eroina della responsabilita',
 		'14-TOMASI DI LAMPEDUSA la terra del rimorso',
-		"15-PASOLINI la vitalita' dei reietti",
-		"16-GUCCINI Dio e' morto",
-		'17-CAMILLERI Montalbano'
+		'15-PASOLINI la vitalita dei reietti (e l_omosessualita)',
+		'16-GUCCINI Dio e morto (ma risorgera)',
+		'17-CAMILLERI Montalbano, un eroe dell_intelligenza contro l_illegalita'
 	]
 };
